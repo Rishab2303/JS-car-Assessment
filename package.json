@@ -1,0 +1,18 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "main": "inventory.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:Problem1": "node Problem1.js",
+    "start:Problem2": "node Problem2.js",
+    "start:Problem3": "node Problem3.js",
+    "start:Problem4": "node Problem4.js",
+    "start:Problem5": "node Problem5.js",
+    "start:Problem6": "node Problem6.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
